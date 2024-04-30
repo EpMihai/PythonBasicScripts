@@ -1,4 +1,6 @@
-# Acest script Python generează o listă de 10 numere aleatoare între 1 și 100.
-# Pentru fiecare număr, se afișează dacă este par sau impar.
-# Se calculează suma numerelor pare și a celor impare, precum și valoarea maximă și minimă.
-# Rezultatele sunt afișate la sfârșit.
+This Python code does the same thing as the Bash script:
+
+It generates a list of 10 random numbers between 1 and 100.
+It prints each number and identifies whether it's even or odd.
+It calculates the sum of even and odd numbers, as well as the maximum and minimum numbers.
+Finally, it prints out the results.
